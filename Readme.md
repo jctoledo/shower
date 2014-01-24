@@ -41,4 +41,4 @@ You're always welcome to contibute. Fork project, make changes and send it as pu
 Main contributors: [pepelsbey](https://github.com/pepelsbey), [jahson](https://github.com/jahson), [miripiruni](https://github.com/miripiruni), [kizu](https://github.com/kizu).
 
 ---
-Licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License), see [license page](https://github.com/shower/shower/wiki/MIT-License) for details.
+Licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License), see [license page](https://github.com/bio2rdf/bio2rdf-scripts/wiki/MIT-License) for details.
